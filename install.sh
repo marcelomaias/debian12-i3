@@ -17,7 +17,7 @@ sudo systemctl enable avahi-daemon
 sudo systemctl enable acpid
 
 # Terminal (eg. terminator,kitty,xfce4-terminal,tilix)
-sudo apt install -y kitty
+sudo apt install -y alacritty
 
 # Sound packages
 sudo apt install -y pulseaudio alsa-utils pavucontrol volumeicon-alsa
