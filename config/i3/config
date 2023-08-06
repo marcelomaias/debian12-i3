@@ -65,7 +65,7 @@ focus_follows_mouse no
 
 ################################### APPS BINDINGS
 
-bindsym $mod+Return exec alacritty
+bindsym $mod+Return exec kitty
 bindsym $mod+n exec pcmanfm
 bindsym $mod+space exec rofi -show drun
 

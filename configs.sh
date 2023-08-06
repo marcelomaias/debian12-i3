@@ -3,7 +3,7 @@
 cd ~/debian12-i3
 
 cp -r Wallpapers/ ~/Pictures
-cp -r config/alacritty/ ~/.config
+cp -r config/kitty/ ~/.config
 cp -r config/i3/ ~/.config
 cp -r config/i3status/ ~/.config
 cp -r config/mpv/ ~/.config
