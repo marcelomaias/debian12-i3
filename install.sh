@@ -53,7 +53,7 @@ xdg-user-dirs-update
 sudo apt install -y i3-wm
 
 # Packages needed i3-wm after installation
-sudo apt install -y dmenu sxhkd rofi dunst libnotify-bin picom unzip simple-scan
+sudo apt install -y dmenu polybar sxhkd rofi dunst libnotify-bin picom unzip simple-scan
 
 
 source ~/debian12-i3/configs.sh
