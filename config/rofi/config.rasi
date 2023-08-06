@@ -1,0 +1,9 @@
+configuration {
+    display-drun: " ";
+    font: "JetBrainsMono Nerd Font Regular 14";
+}
+
+/* @theme "/usr/share/rofi/themes/dmenu.rasi" */
+ @theme "~/.config/rofi/dmenu.rasi"
+/* @theme "~/.config/rofi/flat.rasi" */
+
